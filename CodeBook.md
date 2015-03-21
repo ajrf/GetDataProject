@@ -100,7 +100,7 @@ dataset:
 - *Label variables* (1:2): 
 
  - **1. Activity**: labels the activity :: *factor variable* that takes values in the set {LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS}; 
- 2. SubjectID**: labels the volunteer performing the activity :: *integer variable* that takes values from 1 to 30;
+ - **2. SubjectID**: labels the volunteer performing the activity :: *integer variable* that takes values from 1 to 30;
 
 - *Directional features in the time domain* (3:32): 
 
