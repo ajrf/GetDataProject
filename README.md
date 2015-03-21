@@ -53,9 +53,9 @@ Script's FLAGs:
 
 - boolean **'ordBySubjID'** sets the relative order of the first two columns (the dataset labels): 
 if TRUE the order is |SubjectID|Activity|, and if FALSE it is |Activity|SubjectID| (the default); 
-- boolean **'rmTmpFiles'** (debugging): whether to remove the temporary features parsed files 
+- boolean **'rmTmpFiles'** (debugging): whether to remove the temporary features' parsed files 
 (default: TRUE). 
 - boolean **'forceGenTmpFiles+** (debugging): whether to force the re-generation of the 
-temporary features parsed files (default: FALSE). Note: by default the temporary features parsed 
+temporary features parsed files (default: FALSE). Note: by default the temporary features' parsed 
 files are not re-generated if they already exist. 
 
