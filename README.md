@@ -15,7 +15,7 @@ For a detailed description see the **CodeBook.md** file.
 
 To view the tidy dataset in R do: 
 ```
-dtb<-read.table("<path_to_file>/AvgTidyDataset.txt"); 
+dtb<-read.table("<path_to_file>/AvgTidyDataset.txt", header=TRUE); 
 View(dtb);
 ```
 

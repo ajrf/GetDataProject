@@ -4,7 +4,7 @@
 outfile<-"AvgTidyDataset.txt";
 # 
 # To view the tidy dataset in R do: 
-#   dtb<-read.table("<path_to_file>/AvgTidyDataset.txt"); 
+#   dtb<-read.table("<path_to_file>/AvgTidyDataset.txt", header=TRUE); 
 #   View(dtb); 
 #
 # The summarisation consists in averaging, for each activity and each subject, the feature-variables 
